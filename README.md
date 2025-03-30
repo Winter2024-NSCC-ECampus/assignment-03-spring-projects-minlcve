@@ -1,10 +1,10 @@
-# 💰 Budget Tracker CLI (Spring Shell)
+# Budget Tracker CLI (Spring Shell)
 
 This is a simple **command-line Budget Tracker** application built using **Spring Shell** — without Spring Boot or Spring Framework — for academic assignment submission.
 
 ---
 
-## 📚 Project Description
+## Project Description
 
 This project uses [Spring Shell](https://spring.io/projects/spring-shell) to provide a CLI interface for managing a budget. Users can:
 
@@ -14,7 +14,7 @@ This project uses [Spring Shell](https://spring.io/projects/spring-shell) to pro
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the project** or open in Eclipse.
 2. Make sure dependencies are downloaded (`Maven → Update Project`).
@@ -23,7 +23,7 @@ This project uses [Spring Shell](https://spring.io/projects/spring-shell) to pro
 
 ---
 
-## 💻 Commands to Try
+##  Commands to Try
 
 | Command                | Description                      |
 |------------------------|----------------------------------|
@@ -35,8 +35,7 @@ This project uses [Spring Shell](https://spring.io/projects/spring-shell) to pro
 
 ## 📷 Screenshot
 
-![screenshot](screenshots/cli-demo.png)
+![shell](https://github.com/user-attachments/assets/4f852746-8750-44a7-b722-731236c256fd)
 
-> Replace with your actual screenshot file.
 
 
