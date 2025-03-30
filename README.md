@@ -1,7 +1,6 @@
 # Budget Tracker CLI (Spring Shell)
 
-This is a simple **command-line Budget Tracker** application built using **Spring Shell** — without Spring Boot or Spring Framework — for academic assignment submission.
-
+This is a simple **command-line Budget Tracker** application built using **Spring Shell** — without Spring Boot or Spring Framework 
 ---
 
 ## Project Description
